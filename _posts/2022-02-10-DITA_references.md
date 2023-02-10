@@ -9,7 +9,7 @@ tags:
   - XML
 ---
 
-# COMMON
+# Common
 ```
 <conbody> the body of the concept topic
 <p> a paragraph
@@ -20,27 +20,35 @@ tags:
 <fig> a figure, including an optional title
 <image> a graphic inside a figure, or inline in text
 <section> a subdivision in the topic, with an optional title
-
-<xref> cross-references
+	<title> heading, under which you can use the same elements allowed inside the <conbody> element, excluding another <section> element, an <example> element, or 		       a <conbodydiv> element
 <related-links> end of topic links
 	<link href="URL" format="html" scope="external">
-	
-conref to reference content
-	<note conref="location.dita#topicid/whatduckslike"/>
 ```
-# IN-LINE STYLING
+# Text Formatting
 ```
 <b> bold text
 <i> italic text
 <u> underlined text
-<term> a word or phrase that needs a definition
-<cite> a word or phrase that needs a citation
-<varname> a word or phrase that may change based on the user’s circumstances
+
 <sub> subscript text
 <sup> superscript text
 ```
 
-# TABLES
+# References & Definitions
+```
+<xref> cross-references
+<note conref="location.dita#topicid/whatduckslike"/> conref to reference content
+<fn> Footnote
+<dl> List of terms and definitions, presented in a format similar to a two-column table
+	<dlentry> definition entry element
+	<dt> definition term
+	<dd> full definition
+<term> a word or phrase that needs a definition
+<cite> a word or phrase that needs a citation
+<varname> a word or phrase that may change based on the user’s circumstances
+```
+
+# Tables
 ```
 <simpletable>
 	<sthead> header row
@@ -56,7 +64,7 @@ conref to reference content
 	<entry> data for table cell
 ```
 
-# PROLOG ELEMENTS
+# Prolog Elements
 ```
 <author> the content author
 <critdates> critical dates, such as <created> and <revised>
@@ -64,7 +72,7 @@ conref to reference content
 <vrm> product version, release, and modification information
 ```
 
-# STRICT TASK TOPIC
+# Strict Task Topic
 ```
 <taskbody> the body of the task topic
 <steps> the sequence of actions
@@ -76,7 +84,7 @@ conref to reference content
 <example> an example of how to do the entire task
 ```
 
-# REFERENCE TOPIC
+# Reference Topic
 ```
 <refbody> the body of the reference topic
 <section> a subdivision in the reference topic, with an optional title
@@ -86,14 +94,14 @@ conref to reference content
 <refsyn> a syntax diagram
 ```
 
-# GLOSSARY TOPIC
+# Glossary Topic
 ```
 <glossentry> the glossary entry topic type
 <glossterm> the word or phrase
 <glossdef> the definition of the glossary term
 ```
 
-# NOTE TYPES
+# Note Types
 ```
 <note>
 <attention>
@@ -103,17 +111,10 @@ conref to reference content
 <tip>
 ```
 
-# OTHER
+# Other
 ```
-<fn> Footnote
 <menucascade> order of a menu path, such as File > Save As
 	<uicontrol> text for a menu item
-<dl> List of terms and definitions, presented in a format similar to a two-column table
-	<dlentry> definition entry element
-	<dt> definition term
-	<dd> full definition
-<section> divides the body of a topic into subsections with individual titles
-	<title> heading, under which you can use the same elements allowed inside the <conbody> element, excluding another <section> element, an <example> element, or a <conbodydiv> element
 <draft-comment> comments and questions inserted into content while it is being developed
 <required-cleanup> wrap content that is tagged incorrectly and needs to be fixed
 ```
