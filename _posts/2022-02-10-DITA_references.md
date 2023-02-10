@@ -20,7 +20,7 @@ tags:
 <fig> a figure, including an optional title
 <image> a graphic inside a figure, or inline in text
 <section> a subdivision in the topic, with an optional title
-	<title> heading, under which you can use the same elements allowed inside the <conbody> element, excluding another <section> element, an <example> element, or 		       a <conbodydiv> element
+	<title> heading, under which you can use the same elements allowed inside the <conbody> element, excluding another <section> element, an <example> element, or a <conbodydiv> element
 <related-links> end of topic links
 	<link href="URL" format="html" scope="external">
 ```
