@@ -9,6 +9,8 @@ tags:
   - XML
 ---
 
+A quick reference guide on Darwin Information Typing Architecture (DITA) elements.
+
 # Common
 ```
 <conbody> the body of the concept topic
@@ -118,3 +120,6 @@ tags:
 <draft-comment> comments and questions inserted into content while it is being developed
 <required-cleanup> wrap content that is tagged incorrectly and needs to be fixed
 ```
+
+Looking for something else?  
+[OxygenXML - DITA Elements, A to Z]([Links Url](https://www.oxygenxml.com/dita/1.3/specs/langRef/quick-reference/all-elements-a-to-z.html))
