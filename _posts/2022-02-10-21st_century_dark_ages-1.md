@@ -1,5 +1,6 @@
 ---
 title: "The 21st Century Dark Ages: On Historical Rhymes, Faith in Science & The Limits of Technicians - Part 1"
+date: 2023-02-10
 categories:
   - Article
 tags:
