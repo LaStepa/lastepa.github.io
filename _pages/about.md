@@ -14,7 +14,7 @@ March 2022 – December 2022 (9 months)
 
 **Research Analyst @ Boston Consulting Group** (Madrid, Spain)
 October 2017 – April 2021 (3.5 years)
-Research analyst in BCG’s Data & Research Services (DRS) team. Affiliated with the Technology Advantage (TA) practice. Specialized in strategies on the use of data & technology to support CIOs/CDOs and optimize IT organizations for major corporations around the world
+- Research analyst in BCG’s Data & Research Services (DRS) team. Affiliated with the Technology Advantage (TA) practice. Specialized in strategies on the use of data & technology to support CIOs/CDOs and optimize IT organizations for major corporations around the world
 - Deep expertise using Gartner, IDC, Forrester, Comscore, SimilarWeb, Ovum, eMarketer, Mintel, Bloomberg, Thomson ONE, Capital IQ, Orbis BvD, Oxford Economics, public statistics and local company registries
 - One of three founding members of BCG’s Data & Research Services (DRS) function in Madrid and first in Europe to support BCG’s Technology Advantage (TA) practice area
 - Selected as an ambassador from DRS Europe to visit, teach, and learn from colleagues in Bangalore, India, in December 2019
