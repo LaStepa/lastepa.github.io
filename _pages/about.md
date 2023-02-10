@@ -19,6 +19,8 @@ Research analyst in BCG’s Data & Research Services (DRS) team. Affiliated with
 - One of three founding members of BCG’s Data & Research Services (DRS) function in Madrid and first in Europe to support BCG’s Technology Advantage (TA) practice area
 - Selected as an ambassador from DRS Europe to visit, teach, and learn from colleagues in Bangalore, India, in December 2019
 
+---
+
 **Translator & Editor @ Boston Consulting Group** (Madrid, Spain)
 October 2014 – September 2017 (3 years)
 - Translated, reviewed, and edited presentations, communications, and publications on a broad range of topics and sectors (e.g., tech, media, telecommunications, energy, financial institutions, and more)
