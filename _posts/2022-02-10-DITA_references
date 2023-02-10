@@ -6,7 +6,7 @@ tags:
   - DITA
   - XML
 
-# COMMON :triangular_flag_on_post:
+# COMMON
 ```
 <conbody> the body of the concept topic
 <p> a paragraph
@@ -25,7 +25,7 @@ tags:
 conref to reference content
 	<note conref="location.dita#topicid/whatduckslike"/>
 ```
-# IN-LINE STYLING :triangular_flag_on_post:
+# IN-LINE STYLING
 ```
 <b> bold text
 <i> italic text
@@ -37,7 +37,7 @@ conref to reference content
 <sup> superscript text
 ```
 
-# TABLES :triangular_flag_on_post:
+# TABLES
 ```
 <simpletable>
 	<sthead> header row
@@ -53,7 +53,7 @@ conref to reference content
 	<entry> data for table cell
 ```
 
-# PROLOG ELEMENTS :triangular_flag_on_post:
+# PROLOG ELEMENTS
 ```
 <author> the content author
 <critdates> critical dates, such as <created> and <revised>
@@ -61,7 +61,7 @@ conref to reference content
 <vrm> product version, release, and modification information
 ```
 
-# STRICT TASK TOPIC :triangular_flag_on_post:
+# STRICT TASK TOPIC
 ```
 <taskbody> the body of the task topic
 <steps> the sequence of actions
@@ -73,7 +73,7 @@ conref to reference content
 <example> an example of how to do the entire task
 ```
 
-# REFERENCE TOPIC :triangular_flag_on_post:
+# REFERENCE TOPIC
 ```
 <refbody> the body of the reference topic
 <section> a subdivision in the reference topic, with an optional title
@@ -83,14 +83,14 @@ conref to reference content
 <refsyn> a syntax diagram
 ```
 
-# GLOSSARY TOPIC :triangular_flag_on_post:
+# GLOSSARY TOPIC
 ```
 <glossentry> the glossary entry topic type
 <glossterm> the word or phrase
 <glossdef> the definition of the glossary term
 ```
 
-# NOTE TYPES :triangular_flag_on_post:
+# NOTE TYPES
 ```
 <note>
 <attention>
@@ -100,7 +100,7 @@ conref to reference content
 <tip>
 ```
 
-# OTHER :triangular_flag_on_post:
+# OTHER
 ```
 <fn> Footnote
 <menucascade> order of a menu path, such as File > Save As
