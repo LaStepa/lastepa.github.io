@@ -123,4 +123,10 @@ A quick reference guide on Darwin Information Typing Architecture (DITA) element
 
 Looking for something else?  
 plain markdown:
-[OxygenXML - DITA Elements, A to Z]([Links Url](https://www.oxygenxml.com/dita/1.3/specs/langRef/quick-reference/all-elements-a-to-z.html)){:target="_blank"}{:rel="noopener noreferrer"}
+[OxygenXML - DITA Elements, A to Z][https://www.oxygenxml.com/dita/1.3/specs/langRef/quick-reference/all-elements-a-to-z.html]{:target="_blank"}{:rel="noopener noreferrer"}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
