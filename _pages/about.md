@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-#Professional Experience
+# Professional Experience
 Technical Writer @ Hatalom Corporation (Orlando, FL)
 January 2022 – Current
 Responsible for end-to-end documentation, from sales to project commissioning, for CLX’s automated industrial electrical control systems, as well as supporting, proprietary SCADA and inventory management software
@@ -37,7 +37,7 @@ File Clerk @ Tangel Rodriguez & Associates Law Firm (Orlando, FL)
 August 2008 – May 2009 (0.75 year)
 Responsible for handling internal paperwork and delivering dockets to the Orange County Courthouse and State Regional Service Center
 
-#Education
+# Education
 M.A. in Contemporary History @ Universidad Complutense de Madrid
 2012 // Madrid, Spain
 
@@ -47,7 +47,7 @@ M.A. in Bilingual & Multicultural Education @ Universidad de Alcalá de Henares
 B.A. in History, Minor in Pre-Law @ University of Central Florida
 2009 // Orlando, Florida
 
-#Achivements
+# Achivements
 • 2012-’14 // All-but-disseration for Ph.D. in History of Science, Medicine & Technology @ Universitat Autónoma de Barcelona
 • 2018-Current // Member of the International Jacques Ellul Society (IJES) (Ellul.org)
 • 2020 // Based in Granada, Spanish podcast La Nevera dedicated a full episode, volume 29, to my M.A. thesis, “El neo-ludismo en los movimientos ecologistas de acción directa en Estados Unidos (1970-2010)” (Link to episode on Radio Almaina)
