@@ -123,4 +123,4 @@ A quick reference guide on Darwin Information Typing Architecture (DITA) element
 
 Looking for something else?  
 plain markdown:
-[OxygenXML - DITA Elements, A to Z]([Links Url](https://www.oxygenxml.com/dita/1.3/specs/langRef/quick-reference/all-elements-a-to-z.html))
+[OxygenXML - DITA Elements, A to Z]([Links Url](https://www.oxygenxml.com/dita/1.3/specs/langRef/quick-reference/all-elements-a-to-z.html)){:target="_blank"}{:rel="noopener noreferrer"}
