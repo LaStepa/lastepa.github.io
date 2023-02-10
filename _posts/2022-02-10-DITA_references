@@ -1,0 +1,116 @@
+title: "DITA XML Reference Guide"
+date: 2022-02-10T11:52:30-04:00
+categories:
+  - blog
+tags:
+  - DITA
+  - XML
+
+# COMMON :triangular_flag_on_post:
+```
+<conbody> the body of the concept topic
+<p> a paragraph
+<ul> an unordered or bulleted list
+<ol> an ordered or numbered list
+<sli> simple list
+<li> a list item inside a <ul> or <ol>
+<fig> a figure, including an optional title
+<image> a graphic inside a figure, or inline in text
+<section> a subdivision in the topic, with an optional title
+
+<xref> cross-references
+<related-links> end of topic links
+	<link href="URL" format="html" scope="external">
+	
+conref to reference content
+	<note conref="location.dita#topicid/whatduckslike"/>
+```
+# IN-LINE STYLING :triangular_flag_on_post:
+```
+<b> bold text
+<i> italic text
+<u> underlined text
+<term> a word or phrase that needs a definition
+<cite> a word or phrase that needs a citation
+<varname> a word or phrase that may change based on the user’s circumstances
+<sub> subscript text
+<sup> superscript text
+```
+
+# TABLES :triangular_flag_on_post:
+```
+<simpletable>
+	<sthead> header row
+	<strow> body row
+	<stentry> simple table entry
+<table>
+	<title> title for the table
+	<tgroup> columns specifications, header rows and body rows
+		<colspec> column widths and identifying info
+		<thead> table header rows
+		<tbody> table body rows
+	<row> single row
+	<entry> data for table cell
+```
+
+# PROLOG ELEMENTS :triangular_flag_on_post:
+```
+<author> the content author
+<critdates> critical dates, such as <created> and <revised>
+<copyright> copyright year <copyryear>, and copyright holder <copyrholder>
+<vrm> product version, release, and modification information
+```
+
+# STRICT TASK TOPIC :triangular_flag_on_post:
+```
+<taskbody> the body of the task topic
+<steps> the sequence of actions
+<step> each individual action
+	<cmd> the action the user takes; this is a required element in a <step>
+	<info> additional information about the step
+	<stepresult> what happens after performing an action
+	<stepxmp> an example of how to do the step
+<example> an example of how to do the entire task
+```
+
+# REFERENCE TOPIC :triangular_flag_on_post:
+```
+<refbody> the body of the reference topic
+<section> a subdivision in the reference topic, with an optional title
+<table> a table
+<fig> a figure, including an optional title
+<properties> a list of properies
+<refsyn> a syntax diagram
+```
+
+# GLOSSARY TOPIC :triangular_flag_on_post:
+```
+<glossentry> the glossary entry topic type
+<glossterm> the word or phrase
+<glossdef> the definition of the glossary term
+```
+
+# NOTE TYPES :triangular_flag_on_post:
+```
+<note>
+<attention>
+<danger>
+<caution>
+<important>
+<tip>
+```
+
+# OTHER :triangular_flag_on_post:
+```
+<fn> Footnote
+<menucascade> order of a menu path, such as File > Save As
+	<uicontrol> text for a menu item
+<dl> List of terms and definitions, presented in a format similar to a two-column table
+	<dlentry> definition entry element
+	<dt> definition term
+	<dd> full definition
+<section> divides the body of a topic into subsections with individual titles
+	<title> heading, under which you can use the same elements allowed inside the <conbody> element, excluding another <section> element, an <example> element, or a <conbodydiv> element
+<draft-comment> comments and questions inserted into content while it is being developed
+<required-cleanup> wrap content that is tagged incorrectly and needs to be fixed
+```
