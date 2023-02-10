@@ -5,6 +5,7 @@ categories:
   - blog
 tags:
   - quote
+  - humor
 ---
 
 > “Those who believe in telekinetics, raise my hand.”
