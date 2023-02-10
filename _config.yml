@@ -19,7 +19,7 @@ description: "Asa Ekengren's personal website and portfolio"
 twitter_username: aekengren
 github_username: AsaEkengren
 minimal_mistakes_skin: dirt
-logo: "/assets/images/juggling.png"
+logo: "/assets/images/bannericon.png"
 search: true
 
 # Build settings
