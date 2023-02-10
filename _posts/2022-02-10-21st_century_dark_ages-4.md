@@ -9,7 +9,7 @@ tags:
   - technology
 ---
 
-# 3. OXYMORONS: MACHINE “LEARNING,” ARTIFICIAL “INTELLIGENCE” & “LIFE” AS DATA
+# 4. OXYMORONS: MACHINE “LEARNING,” ARTIFICIAL “INTELLIGENCE” & “LIFE” AS DATA
 Welcoming in the new millennium, the first moment of the year 2000 was in fact a non-event, but one which nonetheless posed gravely serious questions and concerns; the year 2000 problem, popularly known as Y2K.  
 
 The Y2K bug was a potentially fatal error in the underlying code responsible for the operation of countless electrical and computing devices embedded throughout the infrastructure of industrialized nations. Transportation systems, public utilities, and nearly all modern industries—the life-sustaining umbilical chords of technological society—have been developed and largely automated thanks to these devices. As a clever solution to former limitations in on-device memory, instead of taking up 4 bits of memory by recording the year of dates as ‘1999,’ developers programmed devices with the less memory-intensive 2-bit format of ’99’.  
