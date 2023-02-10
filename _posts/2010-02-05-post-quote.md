@@ -1,9 +1,8 @@
 ---
-title: "Post: Quote"
+title: "Post: Vonnegut Quote"
 categories:
   - Blog
 tags:
-  - Post Formats
   - quote
 ---
 
