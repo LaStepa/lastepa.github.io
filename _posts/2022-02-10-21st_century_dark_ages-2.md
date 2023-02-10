@@ -10,7 +10,6 @@ tags:
 ---
 
 # 2. A BRIEF CRITIQUE OF PROGRESS
-
 Let us take a prudent first step and simply note the fact that believers of the “law of progress” now constitute the overwhelming majority of global leadership and the culture we have been raised in. What exactly does progress even mean?  
 
 Decorated Harvard psychologist, Steven Pinker, provides a prime example of optimistic views that the spread of European Enlightenment values—liberty, progress, tolerance, fraternity, constitutional government, and separation of church and state—has allowed us unparalleled levels of human well-being3. Like many other zealously optimistic techno-scientific clergy, for Pinker, the litmus test to observe human progress towards improved well-being is exclusively based on empirical measurements, data, and numbers, such as indicators on literacy rates, poverty correlated to income, education correlated to level of study, and freedom correlated to democratic forms of government. Implicit in these correlations are some unfortunate assumptions that can be addressed as follows.  
