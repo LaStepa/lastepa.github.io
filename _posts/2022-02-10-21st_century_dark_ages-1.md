@@ -29,3 +29,5 @@ Before physicalism became widely accepted among the general public, during Europ
 In other words, in to today’s epoch, empiricism is divine revelation. Science and technology are religion. Universities and technical institutes are the church. Scientists and technicians are the clergy.  
 
 This unfortunately bitter interpretation is intended as an aid to help pull our vision away from techno-scientific cult’s hypnotic artificial lamp-light of quantitative progress above all else. In today’s society, he who questions or speaks against the incessant march of technological progress is a heretic. Red pill or blue pill? The choice is yours; the consequences are ours. Let us hereticate!  
+
+Continue to Part 2: A BRIEF CRITIQUE OF PROGRESS{% post_url 2022-02-10-21st_century_dark_ages-2.md %}
