@@ -14,9 +14,9 @@ Jaime Pascual - Bass
 Ali - Violin  
 Tomas - Guitar  
 
-The following videos are from Idiacanthus' last concert at the Wurlitzer Ballroom in March 2020. Recorded and edited by Ruben G. Herrera. 
+The following videos are from Idiacanthus' last concert at the Wurlitzer Ballroom in March 2020. Recorded and edited by Ruben G. Herrera.  
 
-*Tabla*  
+*Tabla*
 {% include video id="lGV2RN48MYE" provider="youtube" %}  
-*Juego*  
+*Juego*
 {% include video id="dYe1og7qYUo" provider="youtube" %}
