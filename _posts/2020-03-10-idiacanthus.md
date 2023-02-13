@@ -20,7 +20,7 @@ The following videos are from Idiacanthus' last concert at the Wurlitzer Ballroo
 **Juego**
 {% include video id="dYe1og7qYUo" provider="youtube" %}
 
-{% include gallery id="gallery1" layout="half" %}
+{% include gallery id="gallery1" %}
 gallery1:
   - image_path: "/assets/images/idiacanthus/guadalajara1.jpg"
   - image_path: "/assets/images/idiacanthus/guadalajara2.jpg"
@@ -29,3 +29,10 @@ gallery1:
   - image_path: "/assets/images/idiacanthus/guadalajara5.jpg"
   - image_path: "/assets/images/idiacanthus/guadalajara6.jpg"
   - image_path: "/assets/images/idiacanthus/guadalajara7.jpg"
+  - image_path: "/assets/images/idiacanthus/guadalajara8.jpg"
+  - image_path: "/assets/images/idiacanthus/guadalajara9.jpg"
+  - image_path: "/assets/images/idiacanthus/guadalajara10.jpg"
+  - image_path: "/assets/images/idiacanthus/guadalajara11.jpg"
+  - image_path: "/assets/images/idiacanthus/guadalajara12.jpg"
+  - image_path: "/assets/images/idiacanthus/guadalajara13.jpg"
+  - image_path: "/assets/images/idiacanthus/guadalajara14.jpg"
