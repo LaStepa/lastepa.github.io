@@ -60,11 +60,9 @@ B.A. in History, Minor in Pre-Law @ University of Central Florida
 2009 // Orlando, Florida
 
 # Achivements
-- 2012-’14 // All-but-disseration for Ph.D. in History of Science, Medicine & Technology @ Universitat Autónoma de Barcelona
-- 2018-Current // Member of the International Jacques Ellul Society (IJES) (Ellul.org)
-- 2020 // Based in Granada, Spanish podcast La Nevera dedicated a full episode, volume 29, to my M.A. thesis, “El neo-ludismo en los movimientos ecologistas de acción directa en Estados Unidos (1970-2010)” (Link to episode on Radio Almaina)
-- 2016 // Guest speaker on “Ciència, tecnologia I medicina a les places: governabilitats,
-apoderaments I resistències” at the Institut de Estudis Catalans, Barcelona
-- April 23-24, 2012 // Guest speaker on “Science Fiction Across Media: Alternative
-Histories, Alien Futures” at Umeå University, Sweden
+- 2012-’14 // All-but-disseration for Ph.D. in History of Science, Medicine & Technology @ Universitat Autónoma de Barcelona  
+- 2018-Current // Member of the [International Jacques Ellul Society (IJES)](https://ellul.org)  
+- 2020 // Based in Granada, Spanish podcast La Nevera dedicated a full episode, volume 29, to my M.A. thesis, “El neo-ludismo en los movimientos ecologistas de acción directa en Estados Unidos (1970-2010)” (Link to episode on Radio Almaina)  
+- 2016 // Guest speaker on “Ciència, tecnologia I medicina a les places: governabilitats, apoderaments I resistències” at the Institut de Estudis Catalans, Barcelona  
+- April 23-24, 2012 // Guest speaker on “Science Fiction Across Media: Alternative Histories, Alien Futures” at Umeå University, Sweden  
 - 2005-’06 // President of the Heavy Metal Enthusiasts Club at the University of Central Florida. Raised membership by 200%, making the club one of the most active extra-curricular communities at the university
