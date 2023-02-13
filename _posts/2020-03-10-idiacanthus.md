@@ -25,9 +25,12 @@ gallery:
     image_path: /assets/images/idiacanthus/guadalajara1.jpg
   - url: /assets/images/idiacanthus/guadalajara2.jpg
     image_path: /assets/images/idiacanthus/guadalajara2.jpg
-  - image_path: /assets/images/idiacanthus/guadalajara3.jpg
-  - image_path: /assets/images/idiacanthus/guadalajara4.jpg
-  - image_path: /assets/images/idiacanthus/guadalajara5.jpg
+  - url: /assets/images/idiacanthus/guadalajara3.jpg
+    image_path: /assets/images/idiacanthus/guadalajara3.jpg
+  - url: /assets/images/idiacanthus/guadalajara4.jpg
+    image_path: /assets/images/idiacanthus/guadalajara4.jpg
+  - url: /assets/images/idiacanthus/guadalajara5.jpg
+    image_path: /assets/images/idiacanthus/guadalajara5.jpg
   - image_path: /assets/images/idiacanthus/guadalajara6.jpg
   - image_path: /assets/images/idiacanthus/guadalajara7.jpg
   - image_path: /assets/images/idiacanthus/guadalajara8.jpg
