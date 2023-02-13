@@ -6,7 +6,7 @@ categories:
 tags:
   - progressive rock
 ---
-Idiacanthus was a promising project formed in Madrid, Spain, in 2018. After diligently composing a truly unique sound and set of songs for nearly three years, the COVID-19 pandemic resulted in the studio recording being cancelled.
+Idiacanthus was a promising project formed in Madrid, Spain, in 2018. After diligently composing a truly unique sound and set of songs for nearly three years, the COVID-19 pandemic resulted in the studio recording being cancelled and the group disbanding.
 
 Asa Ekengren - Drums  
 Jaime Pascual - Bass  
@@ -15,7 +15,7 @@ Tomas - Guitar
 
 The following videos are from Idiacanthus' last concert at the Wurlitzer Ballroom in March 2020. Recorded and edited by Ruben G. Herrera.  
 
-*Tabla*
+**Tabla**
 {% include video id="lGV2RN48MYE" provider="youtube" %}  
-*Juego*
+**Juego**
 {% include video id="dYe1og7qYUo" provider="youtube" %}
