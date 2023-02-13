@@ -36,3 +36,4 @@ gallery1:
   - image_path: "/assets/images/idiacanthus/guadalajara12.jpg"
   - image_path: "/assets/images/idiacanthus/guadalajara13.jpg"
   - image_path: "/assets/images/idiacanthus/guadalajara14.jpg"
+  - image_path: "/assets/images/idiacanthus/guadalajara15.jpg"
