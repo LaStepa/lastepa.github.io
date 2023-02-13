@@ -93,5 +93,5 @@ The following videos are from Idiacanthus' last concert at the Wurlitzer Ballroo
 **Live at Sala Óxido, Guadalajara, Spain, in December 2019.** Photography by [Aldarazn Fotografía](https://www.instagram.com/aldarazn/).
 {% include gallery id="gallery1" %}  
 
-**Live at the Wurlitzer Ballroom, Madrid, Spain, in May 2020.** Photography by [Alberto Rubio Mediavilla Fotografía](https://www.instagram.com/aldarazn/](https://albertorubiofotografia.es).
+**Live at the Wurlitzer Ballroom, Madrid, Spain, in May 2020.** Photography by [Alberto Rubio Mediavilla Fotografía](https://albertorubiofotografia.es).
 {% include gallery id="gallery2" %}
