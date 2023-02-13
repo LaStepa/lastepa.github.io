@@ -2,7 +2,7 @@
 title: "The 21st Century Dark Ages: On Historical Rhymes, Faith in Science & The Limits of Technicians - Part 2"
 date: 2023-02-10
 categories:
-  - Article
+  - article
 tags:
   - science
   - philosophy
@@ -39,3 +39,8 @@ Anybody having studied or experienced the spread of ideologies understands that 
 Like most deeper reflection in the age of entertainment, many rigorous, noteworthy critiques of Pinker’s thesis have been drowned out and ignored by the roaring noise of rhetoric and spectacle that serves as an easy escape from our darkening reality. How can religion, philosophy, or history even attempt to compete with technical splendor as Elon Musk and Jeff Bezos launch cars and billionaires into outer space?  
 
 Despite the ever-so-many illusions, the fact remains; there is no empirical method of observation available to support a comprehensive, stable theory of qualitative elements of the human condition. In other words, numbers will never be able to completely reveal reality since we necessarily live a human existence in which facts and information are strung together with semantic meaning and qualitative, metaphysical concepts like beauty and ugliness, right and wrong, good and bad, false and true.  
+
+---
+
+Continue to [Part 3 - Scientists Stepping Back from the Scope](https://asaekengren.github.io/article/21st_century_dark_ages-3/)  
+Return to [Part 1 - Our Dissonant Historical Rhyme](https://asaekengren.github.io/article/21st_century_dark_ages-1/)
