@@ -10,6 +10,7 @@ tags:
   - technology
 toc: true
 toc_label: "Table of Contents"
+toc_sticky: true
 toc_icon: "fas fa-file-alt"
 ---
 
