@@ -19,7 +19,7 @@ header:
 ---
 
 # 1. OUR DISSONANT HISTORICAL RHYME  
-History does indeed rhyme, but as we sit at the start of the 21st century human civilization is quickly experiencing monumental changes which represent an inflection point that will determine what kind of brave new world our children will be born into. While still rhyming with our past, we are composing a new historical musical genre that is vastly more complex, technical, degenerative, and dissonant than those of our ancestors.  
+History does indeed rhyme[^1], but as we sit at the start of the 21st century human civilization is quickly experiencing monumental changes which represent an inflection point that will determine what kind of brave new world our children will be born into. While still rhyming with our past, we are composing a new historical musical genre that is vastly more complex, technical, degenerative, and dissonant than those of our ancestors.  
 
 Intended for curious philosophers of all walks of life, in this text I argue that human civilization—for the first time now coalesced into a truly globalized, universal history—is slipping deeper into a novel type of scientific dark age characterized by significant and dangerous global economic, intellectual, and cultural decline. Led and bedazzled by un-elected techno-scientific experts, both our political leaders and the distracted masses they oversee have remained stubbornly unconscious of the development of this despotic technocracy, in great part due to misguided and narrow-sighted assessments of the sources of oppression we experience in contemporary life.  
 
@@ -180,3 +180,5 @@ We must somehow find a way to take a step back from the dogmatic application of 
 We cannot unsee what has been seen. We cannot undiscover or unlearn what has been discovered and learned. Maybe we will continue amusing ourselves to death while our captains direct our ship of fools into artificial lamp-lights that will char us crispy like bugs. In the words of Kurt Vonnegut, “Those who live by electronics, die by electronics. Sic semper tyrannis”.  
 
 At this present historical junction, we are assembling a choir and setting our instruments to the tune of a dissonant sort of technical electronic death metal while our conductors are unaware of our immediate human reality as they stare into tubes and collect ever more data and discover ever more “objective” facts. Nay, I say! Before we reach the point of no return, let us get back in tune with the poetic epic, the mysterious opera that is human history and find a viable, regenerative rhythm that allows us to continue composing beautiful melodies far into the future.  
+
+[^1]: Mark Twain is often attributed with having said, “History doesn’t repeat itself, but it often rhymes”.
