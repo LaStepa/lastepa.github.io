@@ -66,6 +66,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AsaEkengren"
+    - label: "Rate Your Music"
+      icon: "/assets/images/rymicon.png"
+      url: "https://rateyourmusic.com/~aekengren"
 
 footer:
   links:
@@ -75,6 +78,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AsaEkengren"
+    - label: "Rate Your Music"
+      icon: "/assets/images/rymicon.png"
+      url: "https://rateyourmusic.com/~aekengren"
 
 defaults:
   # _posts
