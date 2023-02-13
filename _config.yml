@@ -70,7 +70,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/aekengren/"
     - label: "Rate Your Music"
-      icon: "fa-solid fa-fw fa-headphones"
+      icon: "fab fa-fw fa-napster"
       url: "https://rateyourmusic.com/~aekengren"
 
 footer:
@@ -85,7 +85,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/aekengren/"
     - label: "Rate Your Music"
-      icon: "fa-solid fa-fw fa-headphones"
+      icon: "fab fa-fw fa-napster"
       url: "https://rateyourmusic.com/~aekengren"
 
 defaults:
