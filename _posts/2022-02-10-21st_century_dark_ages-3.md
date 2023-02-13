@@ -41,3 +41,9 @@ Again we find ourselves at the point in thought where the mysteries of the human
 Physicalists can write off these aspects of our existence as mere romantic notions or mysticism, but if we listen attentively to our history and sages—if we actually stand on the shoulders of giants rather than ignore them—it is clear that these forces have been a key part of humanity since our primordial beginnings. As far as we know, love is real, eternal, and therefore objectively more true than our perpetually-changing scientific facts, nonetheless we remain slaves to empiricism and the dogma of quantification which reduces our understanding of love to soulless mechanical biochemical operations and natural selection.  
 
 The techno-scientific cult and its followers say, “If it can be done, it will be done!” Wisdom and its adherents will beg the question, “Should it be done?”  
+
+---
+
+Continue to [Part 4 - Oxymorons: Machine "Learning," Artificial "Intelligence" & "Life" as Data](https://asaekengren.github.io/article/21st_century_dark_ages-4/)  
+Return to [Part 1 - Our Dissonant Historical Rhyme](https://asaekengren.github.io/article/21st_century_dark_ages-1/)  
+[Part 2 - A Brief Critique of Progress](https://asaekengren.github.io/article/21st_century_dark_ages-2/)
