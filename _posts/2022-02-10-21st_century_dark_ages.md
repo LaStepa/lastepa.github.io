@@ -12,6 +12,10 @@ toc: true
 toc_label: "Table of Contents"
 toc_sticky: true
 toc_icon: "fas fa-file-alt"
+header:
+  overlay_image: /assets/images/21stcenturybanner.jpg
+  og_image: /assets/images/21stcenturybanner.jpg
+
 ---
 
 # 1. OUR DISSONANT HISTORICAL RHYME  
