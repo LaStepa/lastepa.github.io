@@ -1,5 +1,5 @@
 ---
-title: "Post: Vonnegut Quote"
+title: "Vonnegut on telekinetics"
 date: 2023-02-10
 categories:
   - blog
