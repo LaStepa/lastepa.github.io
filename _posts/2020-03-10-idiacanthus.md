@@ -55,8 +55,6 @@ gallery2:
     image_path: /assets/images/idiacanthus/wurlitzer8.jpg
   - url: /assets/images/idiacanthus/wurlitzer9.jpg
     image_path: /assets/images/idiacanthus/wurlitzer9.jpg
-  - url: /assets/images/idiacanthus/wurlitzer10.jpg
-    image_path: /assets/images/idiacanthus/wurlitzer10.jpg
   - url: /assets/images/idiacanthus/wurlitzer11.jpg
     image_path: /assets/images/idiacanthus/wurlitzer11.jpg
   - url: /assets/images/idiacanthus/wurlitzer12.jpg
