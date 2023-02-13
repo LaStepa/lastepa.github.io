@@ -45,5 +45,6 @@ The techno-scientific cult and its followers say, “If it can be done, it will 
 ---
 
 Continue to [Part 4 - Oxymorons: Machine "Learning," Artificial "Intelligence" & "Life" as Data](https://asaekengren.github.io/article/21st_century_dark_ages-4/)  
-Return to [Part 1 - Our Dissonant Historical Rhyme](https://asaekengren.github.io/article/21st_century_dark_ages-1/)  
-[Part 2 - A Brief Critique of Progress](https://asaekengren.github.io/article/21st_century_dark_ages-2/)
+Return to...  
+- [Part 1 - Our Dissonant Historical Rhyme](https://asaekengren.github.io/article/21st_century_dark_ages-1/)  
+- [Part 2 - A Brief Critique of Progress](https://asaekengren.github.io/article/21st_century_dark_ages-2/)
