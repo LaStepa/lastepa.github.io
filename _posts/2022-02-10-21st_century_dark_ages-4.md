@@ -2,7 +2,7 @@
 title: "The 21st Century Dark Ages: On Historical Rhymes, Faith in Science & The Limits of Technicians - Part 4"
 date: 2023-02-10
 categories:
-  - Article
+  - article
 tags:
   - science
   - philosophy
@@ -45,3 +45,11 @@ Though clearly less desirable, there is also real potential that continued techn
 Despite the potentially grim prospects of continued technological advances and the fundamental differences between electronic computing and biological consciousness, humanity is enchanted by techno-scientific spells more than ever before. To the extent that leaders and the general public remain technologically and spiritually illiterate, we find it hard to challenge the bold claims made by the techno-scientific clergy, especially as they present us with an endless slew of new discoveries, promises, and dazzling inventions that indeed work marvelously well on command.  
 
 Are today’s scientists and technologists completely unaware of the fables about the clay golem, Frankenstein, the Fountain of Youth, and the Tower of Babel? Have we all forgotten the doomed endeavors of Spanish explorers that ran their crews and expeditions into oblivion in search of immortality?  
+
+---
+
+Continue to [Part 5 - Hu(wo)man(LGBTQ+)ity in the Post-Modern Age](https://asaekengren.github.io/article/21st_century_dark_ages-5/)  
+Return to...  
+- [Part 1 - Our Dissonant Historical Rhyme](https://asaekengren.github.io/article/21st_century_dark_ages-1/)  
+- [Part 2 - A Brief Critique of Progress](https://asaekengren.github.io/article/21st_century_dark_ages-2/)
+- [Part 3 - Scientists Stepping Back from the Scope](https://asaekengren.github.io/article/21st_century_dark_ages-3/)  
