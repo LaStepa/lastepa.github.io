@@ -9,7 +9,7 @@ tags:
   - technology
 toc: true
 toc_label: "Table of Contents"
-toc_icon: "cog"
+toc_icon: "fas fa-file-alt"
 ---
 
 # 1. OUR DISSONANT HISTORICAL RHYME  
