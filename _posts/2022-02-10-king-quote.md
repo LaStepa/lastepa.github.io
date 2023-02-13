@@ -1,5 +1,5 @@
 ---
-title: "Post: MLK on Science"
+title: "MLK on science"
 date: 2023-02-10
 categories:
   - blog
