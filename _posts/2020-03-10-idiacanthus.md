@@ -73,8 +73,6 @@ gallery2:
     image_path: /assets/images/idiacanthus/wurlitzer17.jpg
   - url: /assets/images/idiacanthus/wurlitzer18.jpg
     image_path: /assets/images/idiacanthus/wurlitzer18.jpg
-  - url: /assets/images/idiacanthus/wurlitzer19.jpg
-    image_path: /assets/images/idiacanthus/wurlitzer19.jpg
 ---
 Idiacanthus was a promising project formed in Madrid, Spain, in 2018. After diligently composing a truly unique sound and set of songs for nearly three years, the COVID-19 pandemic resulted in the studio recording being cancelled and the group disbanding.
 
