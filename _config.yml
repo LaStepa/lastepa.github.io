@@ -66,8 +66,11 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AsaEkengren"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/aekengren/"
     - label: "Rate Your Music"
-      icon: "fa-solid fa-headphones"
+      icon: "fa-solid fa-fw fa-headphones"
       url: "https://rateyourmusic.com/~aekengren"
 
 footer:
@@ -78,8 +81,11 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AsaEkengren"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/aekengren/"
     - label: "Rate Your Music"
-      icon: "fa-solid fa-headphones"
+      icon: "fa-solid fa-fw fa-headphones"
       url: "https://rateyourmusic.com/~aekengren"
 
 defaults:
