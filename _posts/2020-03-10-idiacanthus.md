@@ -81,7 +81,7 @@ Idiacanthus was a promising project formed in Madrid, Spain, in 2018. After dili
 **Ali** - Violin  
 **Tomas** - Guitar  
 
-The following videos are from Idiacanthus' last concert at the Wurlitzer Ballroom in May 2020. Recorded and edited by [Ruben G. Herrera](https://www.instagram.com/rubengherrera/).  
+**Live videos from Idiacanthus' last concert at the Wurlitzer Ballroom in May 2020.** Recorded and edited by [Ruben G. Herrera](https://www.instagram.com/rubengherrera/).  
 
 **Tabla**
 {% include video id="lGV2RN48MYE" provider="youtube" %}  
