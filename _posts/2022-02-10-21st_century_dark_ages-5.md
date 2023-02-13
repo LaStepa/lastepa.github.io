@@ -2,14 +2,14 @@
 title: "The 21st Century Dark Ages: On Historical Rhymes, Faith in Science & The Limits of Technicians - Part 5"
 date: 2023-02-10
 categories:
-  - Article
+  - article
 tags:
   - science
   - philosophy
   - technology
 ---
 
-# 5. U(WO)MAN(LGBTQ+)ITY IN THE POST-MODERN AGE
+# 5. HU(WO)MAN(LGBTQ+)ITY IN THE POST-MODERN AGE
 What does this new act in our collective human opera look and sound like? How will it determine civilization’s metaphorical music and dance of the future? As evidence to the claim that we are living in a 21st century scientific dark age, what might we say is the universal human reality in our post-modern technological society?  
 
 As we satisfy our basic material needs, our mental and spiritual world becomes increasingly desolate and unbearable, and we look to fill artificial needs that multiply into infinity.  
@@ -49,3 +49,11 @@ We must somehow find a way to take a step back from the dogmatic application of 
 We cannot unsee what has been seen. We cannot undiscover or unlearn what has been discovered and learned. Maybe we will continue amusing ourselves to death while our captains direct our ship of fools into artificial lamp-lights that will char us crispy like bugs. In the words of Kurt Vonnegut, “Those who live by electronics, die by electronics. Sic semper tyrannis”.  
 
 At this present historical junction, we are assembling a choir and setting our instruments to the tune of a dissonant sort of technical electronic death metal while our conductors are unaware of our immediate human reality as they stare into tubes and collect ever more data and discover ever more “objective” facts. Nay, I say! Before we reach the point of no return, let us get back in tune with the poetic epic, the mysterious opera that is human history and find a viable, regenerative rhythm that allows us to continue composing beautiful melodies far into the future.  
+
+---
+
+Return to...  
+- [Part 1 - Our Dissonant Historical Rhyme](https://asaekengren.github.io/article/21st_century_dark_ages-1/)  
+- [Part 2 - A Brief Critique of Progress](https://asaekengren.github.io/article/21st_century_dark_ages-2/)
+- [Part 3 - Scientists Stepping Back from the Scope](https://asaekengren.github.io/article/21st_century_dark_ages-3/)  
+- [Part 4 - Oxymorons: Machine "Learning," Artificial "Intelligence" & "Life" as Data](https://asaekengren.github.io/article/21st_century_dark_ages-4/)
