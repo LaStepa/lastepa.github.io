@@ -67,7 +67,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AsaEkengren"
     - label: "Rate Your Music"
-      icon: "fa-solid fa-waveform-lines"
+      icon: "fa-solid fa-headphones"
       url: "https://rateyourmusic.com/~aekengren"
 
 footer:
@@ -79,7 +79,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AsaEkengren"
     - label: "Rate Your Music"
-      icon: "fa-solid fa-waveform-lines"
+      icon: "fa-solid fa-headphones"
       url: "https://rateyourmusic.com/~aekengren"
 
 defaults:
