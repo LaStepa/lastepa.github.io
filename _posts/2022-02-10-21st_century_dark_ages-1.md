@@ -7,6 +7,9 @@ tags:
   - science
   - philosophy
   - technology
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 ---
 
 # 1. OUR DISSONANT HISTORICAL RHYME  
