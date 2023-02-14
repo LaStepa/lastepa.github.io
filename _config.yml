@@ -75,16 +75,16 @@ author:
 
 footer:
   links:
-    - label: "GH"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AsaEkengren"
-    - label: "LI"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/aekengren/"
-    - label: "Twit"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/aekengren"
-    - label: "RYM"
+    - label: "Rate Your Music"
       icon: "fab fa-fw fa-napster"
       url: "https://rateyourmusic.com/~aekengren"
 
