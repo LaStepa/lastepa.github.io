@@ -84,7 +84,7 @@ footer:
     - label: "Twit"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/aekengren"
-   - label: "RYM"
+    - label: "RYM"
       icon: "fab fa-fw fa-napster"
       url: "https://rateyourmusic.com/~aekengren"
 
