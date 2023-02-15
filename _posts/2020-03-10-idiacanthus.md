@@ -7,6 +7,9 @@ tags:
   - progressive rock
   - experimental
   - instrumental
+header:
+  overlay_image: /assets/images/wurlitzer1.jpg
+  og_image: /assets/images/wurlitzer1.jpg
 gallery1:
   - url: /assets/images/idiacanthus/guadalajara1.jpg
     image_path: /assets/images/idiacanthus/guadalajara1.jpg
