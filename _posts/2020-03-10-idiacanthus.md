@@ -72,13 +72,19 @@ gallery2:
   - url: /assets/images/idiacanthus/wurlitzer18.jpg
     image_path: /assets/images/idiacanthus/wurlitzer18.jpg
 ---
+# Introduction
 Idiacanthus was a promising instrumental, progressive rock project formed in Madrid, Spain, in 2018. After diligently composing a truly unique sound and set of songs for nearly three years, the COVID-19 pandemic resulted in the studio recording being cancelled and the group disbanding.
 
+## Lineup
 **Asa Ekengren** - Drums  
 **Jaime Pascual** - Bass  
 **Ali** - Violin  
 **Tomas** - Guitar  
 
+# Live
+## Audio
+{% include audio id="1aNHX0P0Nm7IPrxf3MpNPbrDEpVkIu16P" provider="google-drive" %}
+## Video
 **Live videos from Idiacanthus' last concert at the Wurlitzer Ballroom in May 2020.** Recorded and edited by [Ruben G. Herrera](https://www.instagram.com/rubengherrera/).  
 
 **Tabla**
@@ -86,6 +92,12 @@ Idiacanthus was a promising instrumental, progressive rock project formed in Mad
 **Juego**
 {% include video id="dYe1og7qYUo" provider="youtube" %}
 
+# Interview
+Interview with Idiacanthus on [Mautorland.com](https://www.mautorland.com/entrevistas/bandas-del-nooirax-sounds-fest-entrevista-con-idiacanthus/).  
+**Notice:** Only available in Spanish.
+{: .notice}
+
+# Photos
 **Live at Sala Óxido, Guadalajara, Spain, in December 2019.** Photography by [Aldarazn Fotografía](https://www.instagram.com/aldarazn/).
 {% include gallery id="gallery1" %}  
 
