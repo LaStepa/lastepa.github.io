@@ -84,13 +84,12 @@ Idiacanthus was a promising instrumental, progressive rock project formed in Mad
 # Live
 ## Video
 **Live videos from Idiacanthus' last concert at the Wurlitzer Ballroom in May 2020.** Recorded and edited by [Ruben G. Herrera](https://www.instagram.com/rubengherrera/).  
-## Audio
-{% include video id="1aNHX0P0Nm7IPrxf3MpNPbrDEpVkIu16P" provider="google-drive" %}
-
 **Tabla**
 {% include video id="lGV2RN48MYE" provider="youtube" %}  
 **Juego**
 {% include video id="dYe1og7qYUo" provider="youtube" %}
+## Audio
+{% include video id="1aNHX0P0Nm7IPrxf3MpNPbrDEpVkIu16P" provider="google-drive" %}
 
 # Interview
 Interview with Idiacanthus on [Mautorland.com](https://www.mautorland.com/entrevistas/bandas-del-nooirax-sounds-fest-entrevista-con-idiacanthus/).  
