@@ -5,6 +5,8 @@ categories:
   - music
 tags:
   - progressive rock
+  - experimental
+  - instrumental
 gallery1:
   - url: /assets/images/idiacanthus/guadalajara1.jpg
     image_path: /assets/images/idiacanthus/guadalajara1.jpg
@@ -73,7 +75,7 @@ gallery2:
     image_path: /assets/images/idiacanthus/wurlitzer18.jpg
 ---
 # Introduction
-Idiacanthus was a promising instrumental, progressive rock project formed in Madrid, Spain, in 2018. After diligently composing a truly unique sound and set of songs for nearly three years, the COVID-19 pandemic resulted in the studio recording being cancelled and the group disbanding.
+I played drums and composed with Idiacanthus, a promising instrumental, progressive rock project formed in Madrid, Spain, in 2018. After diligently composing a truly unique sound and set of songs for nearly three years, the COVID-19 pandemic unfortunately resulted in the studio recording being cancelled and the group disbanding.
 
 ## Lineup
 **Asa Ekengren** - Drums  
