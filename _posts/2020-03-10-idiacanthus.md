@@ -91,6 +91,7 @@ I played drums and composed with Idiacanthus, a promising instrumental, progress
 **Juego**
 {% include video id="dYe1og7qYUo" provider="youtube" %}
 ## Audio
+**Katya** recorded during a band rehearsal  
 {% include video id="1aNHX0P0Nm7IPrxf3MpNPbrDEpVkIu16P" provider="google-drive" %}
 
 # Interview
