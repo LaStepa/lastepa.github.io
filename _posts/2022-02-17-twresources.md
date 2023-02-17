@@ -16,6 +16,7 @@ A list of helpful, free resources for technical writers.
 
 # General
 [I'd Rather Be Writing](https://idratherbewriting.com) // Great blog and resource on technical writing, including a full  
+[Tech Writer HQ YouTube Channel](https://www.youtube.com/@technicalcommunication) // Guides and interviews for technical writers  
 
 # Darwin Information Typing Architecture (DITA)
 [Learning DITA](https://learningdita.com) // Free courses to learn DITA fundamentals  
