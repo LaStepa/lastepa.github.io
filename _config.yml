@@ -60,6 +60,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Technical writer, historian, musician, juggler, and foody"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:aekengren@pm.me"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AsaEkengren"
