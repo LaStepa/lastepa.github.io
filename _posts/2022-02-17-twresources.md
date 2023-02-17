@@ -21,7 +21,7 @@ A list of helpful, free resources for technical writers.
 [Just Write Click](https://justwriteclick.com) // Blog on technical writing
 [Scriptorium Podcast](https://www.scriptorium.com/category/podcast/) // Podcast on technical writing, content strategy and operations, and structured authoring  
 [Technical Writer HQ](https://technicalwriterhq.com/documentation/) // Introductions and guides to different fields of technical writing. [YouTube channel](https://www.youtube.com/@technicalcommunication) also available  
-[Write the Docs](https://www.writethedocs.org) // Global community of technical writers with a Slack instance, conferences, and local meet-ups  
+[Write the Docs](https://www.writethedocs.org) // Global community of technical writers with a Slack instance, conferences, local meet-ups, a job board, and more  
 
 # Darwin Information Typing Architecture (DITA)
 [Learning DITA](https://learningdita.com) // Free courses to learn DITA fundamentals  
