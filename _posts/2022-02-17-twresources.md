@@ -29,7 +29,7 @@ A list of helpful, free resources for technical writers.
 [Video: GitHub as a Landing Page, by Lorna Jane Mitchell](https://youtu.be/fXMN4X9B8Rg) // Basics and best practices for using GitHub for documentation  
 
 # Programming
-[freeCodeCamp](https://www.freecodecamp.org) // Free coding courses  
+[freeCodeCamp](https://www.freecodecamp.org) // Free coding courses and certifications  
 [W3schools](https://www.w3schools.io) // Free software development tutorials, including XML, JSON, markdown, and much more  
 
 # Darwin Information Typing Architecture (DITA)
