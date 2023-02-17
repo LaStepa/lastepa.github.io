@@ -5,6 +5,7 @@ last_modified_at: 2022-02-10
 categories:
   - blog
 tags:
+  - technical writing
   - DITA
   - XML
 ---
