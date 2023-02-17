@@ -15,7 +15,7 @@ tags:
 A list of helpful, free resources for technical writers.
 
 # General
-[I'd Rather Be Writing](https://idratherbewriting.com) // Blog and resource on technical writing
+[I'd Rather Be Writing](https://idratherbewriting.com) // Blog and resource on technical writing  
 [Scriptorium Podcast](https://www.scriptorium.com/category/podcast/) // Podcast on technical writing, content strategy and operations, and structured authoring  
 [Tech Writer HQ YouTube Channel](https://www.youtube.com/@technicalcommunication) // Guides and interviews for technical writers  
 
