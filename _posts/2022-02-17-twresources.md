@@ -6,6 +6,10 @@ categories:
   - blog
 tags:
   - technical writing
+  - DITA
+  - XML
+  - APIs
+  - GitHub
 ---
 
 A list of helpful, free resources for technical writers.
@@ -22,4 +26,10 @@ A list of helpful, free resources for technical writers.
 [I'd Rather Be Writing - Documenting APIs: A guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/) // Full course to learn how to document APIs  
 
 # GitHub
-[Video: GitHub for Documentation, by Rhonda Glennon](https://youtu.be/812E14gFgb4) // Introduction to GitHub tailored to documentation specialists  
+[Video: GitHub for Documentation, by Rhonda Glennon](https://youtu.be/812E14gFgb4) // Introduction to GitHub tailored to documentarians  
+[GitHub as a Landing Page, by Lorna Jane Mitchell](https://youtu.be/fXMN4X9B8Rg) // Basics and best practices for using GitHub for documentation  
+
+# Common Tools
+The list is free, but the tools aren't!  
+[OxygenXML](https://www.oxygenxml.com) // Arguably the most popular XML authoring tool  
+[Arbortext](https://www.ptc.com/en/products/arbortext) // XML authoring tool frequently used in industrial engineering and defense industries  
