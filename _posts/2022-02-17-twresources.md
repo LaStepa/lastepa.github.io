@@ -32,7 +32,7 @@ A list of helpful, free resources for technical writers.
 [Video: GitHub as a Landing Page, by Lorna Jane Mitchell](https://youtu.be/fXMN4X9B8Rg) // Basics and best practices for using GitHub for documentation  
 
 # Diagrams / Charts
-[Diagrams in Documentation (Markdown Guide)](https://medium.com/technical-writing-is-easy/diagrams-in-documentation-markdown-guide-4e78419e8d2f) // Guide to creating diagrams in markdown
+[Diagrams in Documentation (Markdown Guide)](https://medium.com/technical-writing-is-easy/diagrams-in-documentation-markdown-guide-4e78419e8d2f) // Guide to creating diagrams in markdown  
 [Diagrams.net](https://app.diagrams.net) // Powerful online diagram and flowchart maker  
 [Mermaid](https://mermaid.js.org) // JavaScript-based diagramming and charting tool that transforms markdown to graphics  
 - [Live online editor](https://mermaid.live/edit) also available  
