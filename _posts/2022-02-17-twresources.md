@@ -18,7 +18,7 @@ A list of helpful, free resources for technical writers.
 [Cherryleaf Podcast](https://www.cherryleaf.com/podcast/) // Podcast on becoming a better technical and business communicator  
 [Google Technical Writing Courses](https://developers.google.com/tech-writing/) // Two free technical writing courses offered by the tech giant  
 [I'd Rather Be Writing](https://idratherbewriting.com) // Blog and learning resource on technical writing  
-[Just Write Click](https://justwriteclick.com) // Blog on technical writing
+[Just Write Click](https://justwriteclick.com) // Blog on technical writing  
 [Scriptorium Podcast](https://www.scriptorium.com/category/podcast/) // Podcast on technical writing, content strategy and operations, and structured authoring  
 [Technical Writer HQ](https://technicalwriterhq.com/documentation/) // Introductions and guides to different fields of technical writing. [YouTube channel](https://www.youtube.com/@technicalcommunication) also available  
 [Write the Docs](https://www.writethedocs.org) // Global community of technical writers with a Slack instance, conferences, and local meet-ups    
@@ -39,6 +39,10 @@ A list of helpful, free resources for technical writers.
 [Diagrams in Documentation (Markdown Guide)](https://medium.com/technical-writing-is-easy/diagrams-in-documentation-markdown-guide-4e78419e8d2f) // Guide to creating diagrams in markdown  
 [Diagrams.net](https://app.diagrams.net) // Powerful online diagram and flowchart maker  
 [Mermaid](https://mermaid.js.org) // JavaScript-based diagramming and charting tool that transforms markdown to graphics. [Live online editor](https://mermaid.live/edit) also available  
+
+# Programming
+[freeCodeCamp](https://www.freecodecamp.org) // Free coding courses  
+[W3schools](https://www.w3schools.io) // Free software development tutorials, including XML, JSON, markdown, and much more  
 
 # Standards
 [ASD-STE100](https://www.asd-ste100.org) // Frequently used simplified technical English specifications  
