@@ -15,7 +15,8 @@ tags:
 A list of helpful, free resources for technical writers.
 
 # General
-[I'd Rather Be Writing](https://idratherbewriting.com) // Great blog and resource on technical writing, including a full  
+[I'd Rather Be Writing](https://idratherbewriting.com) // Blog and resource on technical writing
+[Scriptorium Podcast](https://www.scriptorium.com/category/podcast/) // Podcast on technical writing, content strategy and operations, and structured authoring  
 [Tech Writer HQ YouTube Channel](https://www.youtube.com/@technicalcommunication) // Guides and interviews for technical writers  
 
 # Darwin Information Typing Architecture (DITA)
@@ -28,7 +29,7 @@ A list of helpful, free resources for technical writers.
 
 # GitHub
 [Video: GitHub for Documentation, by Rhonda Glennon](https://youtu.be/812E14gFgb4) // Introduction to GitHub tailored to documentarians  
-[GitHub as a Landing Page, by Lorna Jane Mitchell](https://youtu.be/fXMN4X9B8Rg) // Basics and best practices for using GitHub for documentation  
+[Video: GitHub as a Landing Page, by Lorna Jane Mitchell](https://youtu.be/fXMN4X9B8Rg) // Basics and best practices for using GitHub for documentation  
 
 # Common Tools
 The list is free, but the tools aren't!  
