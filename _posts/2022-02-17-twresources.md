@@ -10,7 +10,7 @@ tags:
 
 A list of helpful, free resources for technical writers.
 
-# Common
+# General
 [I'd Rather Be Writing](https://idratherbewriting.com) // Great blog and resource on technical writing, including a full 
 
 # Darwin Information Typing Architecture (DITA)
@@ -20,3 +20,6 @@ A list of helpful, free resources for technical writers.
 
 # Application Programming Interfaces (APIs)
 [I'd Rather Be Writing - Documenting APIs: A guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/) // Full course to learn how to document APIs
+
+# GitHub
+[Video: GitHub for Documentation, by Rhonda Glennon](https://youtu.be/812E14gFgb4) // Introduction to GitHub with a focus on documentation specialists
