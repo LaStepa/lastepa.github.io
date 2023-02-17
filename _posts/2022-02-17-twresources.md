@@ -33,5 +33,7 @@ A list of helpful, free resources for technical writers.
 
 # Common Tools
 The list is free, but the tools aren't!  
+{: .notice}
+
 [OxygenXML](https://www.oxygenxml.com) // Arguably the most popular XML authoring tool  
 [Arbortext](https://www.ptc.com/en/products/arbortext) // XML authoring tool frequently used in industrial engineering and defense industries  
