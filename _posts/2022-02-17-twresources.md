@@ -46,4 +46,4 @@ A list of helpful, free resources for technical writers.
 
 # Standards
 [ASD-STE100](https://www.asd-ste100.org) // Frequently used simplified technical English specifications  
-[MIL-STD-40051 Standards for Technical Manuals](https://www.ldac.army.mil/app-mil-std-page) // US Department of Defense technical manual standards and specifications  
+[MIL-STD-40051](https://www.ldac.army.mil/app-mil-std-page) // US Department of Defense standards and specifications for technical manuals  
