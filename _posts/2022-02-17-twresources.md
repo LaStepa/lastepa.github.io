@@ -15,6 +15,7 @@ tags:
 A list of helpful, free resources for technical writers.
 
 # General
+[Google Technical Writing Courses](https://developers.google.com/tech-writing/) // Two free technical writing courses offered by the tech giant  
 [I'd Rather Be Writing](https://idratherbewriting.com) // Blog and resource on technical writing  
 [Scriptorium Podcast](https://www.scriptorium.com/category/podcast/) // Podcast on technical writing, content strategy and operations, and structured authoring  
 [Tech Writer HQ YouTube Channel](https://www.youtube.com/@technicalcommunication) // Guides and interviews for technical writers  
