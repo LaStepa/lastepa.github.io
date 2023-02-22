@@ -1,7 +1,6 @@
 ---
 title: "DITA XML Reference Guide"
 date: 2023-02-10
-last_modified_at: 2022-02-10
 categories:
   - blog
 tags:
