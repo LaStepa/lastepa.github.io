@@ -5,6 +5,7 @@ categories:
   - blog
 tags:
   - consulting
+  - productivity
 ---
 
 I worked at Boston Consulting Group (BCG) for 6.5 years and learned quite a bit about how to create and deliver presentations. BCG and other top-tier management consulting firms--McKinsey, Deloitte, PwC, Accenture, etc.--
