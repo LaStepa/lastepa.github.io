@@ -1,6 +1,6 @@
 ---
 title: "The 21st Century Dark Ages: On Historical Rhymes, Faith in Science & The Limits of Technicians"
-date: 2023-02-10
+date: 2021-02-10
 excerpt: "Semi-poetic analysis of the challenges and shortcomings of modern science and technology"
 categories:
   - article

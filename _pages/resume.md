@@ -4,21 +4,21 @@ title: "Resume"
 ---
 
 # Professional Experience
-**Technical Writer @ Hatalom Corporation** (Orlando, FL)  
+**Technical Writer @ [Hatalom Corporation](https://www.hatalom.com)** (Orlando, FL)  
 January 2022 – Current  
 - Responsible for documenting software solutions, simulation and game-based training applications, as well as engineering, IT, and cybersecurity services.
 - Supporting proposals to US Department of Defense (DoD) requests for proposal (RFPs)
 
 ---
 
-**Technical Writer @ CLX Engineering** (Sanford, FL)  
+**Technical Writer @ [CLX Engineering](https://clxengineering.com)** (Sanford, FL)  
 March 2022 – December 2022 (9 months)  
 - Responsible for end-to-end documentation, from sales to project commissioning, for CLX’s automated industrial electrical control systems, as well as supporting, proprietary SCADA and inventory management software
 - Created corporate style guide and made improvements to the company knowledge management system
 
 ---
 
-**Research Analyst @ Boston Consulting Group** (Madrid, Spain)  
+**Research Analyst @ [Boston Consulting Group](https://www.bcg.com)** (Madrid, Spain)  
 October 2017 – April 2021 (3.5 years)  
 - Research analyst in BCG’s Data & Research Services (DRS) team. Affiliated with the Technology Advantage (TA) practice. Specialized in strategies on the use of data & technology to support CIOs/CDOs and optimize IT organizations for major corporations around the world
 - Deep expertise using Gartner, IDC, Forrester, Comscore, SimilarWeb, Ovum, eMarketer, Mintel, Bloomberg, Thomson ONE, Capital IQ, Orbis BvD, Oxford Economics, public statistics and local company registries
@@ -27,7 +27,7 @@ October 2017 – April 2021 (3.5 years)
 
 ---
 
-**Translator & Editor @ Boston Consulting Group** (Madrid, Spain)  
+**Translator & Editor @ [Boston Consulting Group](https://www.bcg.com)** (Madrid, Spain)  
 October 2014 – September 2017 (3 years)  
 - Translated, reviewed, and edited presentations, communications, and publications on a broad range of topics and sectors (e.g., tech, media, telecommunications, energy, financial institutions, and more)
 
