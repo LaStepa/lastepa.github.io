@@ -12,7 +12,7 @@ tags:
   - GitHub
 ---
 
-A list of helpful, free resources for technical writers.
+A list of helpful, 100% free resources for technical writers.
 
 # General
 [Cherryleaf Podcast](https://www.cherryleaf.com/podcast/) // Podcast on becoming a better technical and business communicator  
