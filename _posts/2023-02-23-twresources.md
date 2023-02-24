@@ -2,6 +2,10 @@
 title: "Free Resources for Technical Writers"
 date: 2023-02-23
 last_modified_at: 2022-02-23
+toc: true
+toc_label: "Table of Contents"
+toc_sticky: true
+toc_icon: "fas fa-file-alt"
 categories:
   - blog
 tags:
