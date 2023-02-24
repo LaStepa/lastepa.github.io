@@ -15,8 +15,10 @@ tags:
 A list of helpful, 100% free resources for technical writers.
 
 # General
-[Cherryleaf Podcast](https://www.cherryleaf.com/podcast/) // Podcast on becoming a better technical and business communicator  
-[DITA Writer](https://www.ditawriter.com) // Blog and general resource on technical writing and industry trends  
+## [Cherryleaf Podcast](https://www.cherryleaf.com/podcast/)
+Podcast on becoming a better technical and business communicator  
+## [DITA Writer](https://www.ditawriter.com)
+Blog and general resource on technical writing and industry trends  
 [Google Technical Writing Courses](https://developers.google.com/tech-writing/) // Two free technical writing courses offered by the tech giant  
 [I'd Rather Be Writing](https://idratherbewriting.com) // Blog and learning resource on technical writing  
 [Just Write Click](https://justwriteclick.com) // Blog on technical writing  
