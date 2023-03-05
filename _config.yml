@@ -14,18 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mayra Stepa
-email: aekengren@pm.me
-description: "Asa Ekengren's personal website and portfolio"
-twitter_username: aekengren
+email: stepamayra@proton.me
+description: "Mayra Stepa's personal website and portfolio"
 github_username: LaStepa
 minimal_mistakes_skin: dirt
 logo: "/assets/images/siteicon.png"
 search: true
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-W8KXVP1W8B"
-    anonymize_ip: false # default
 
 # Build settings
 markdown: kramdown
@@ -61,40 +55,31 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Asa Ekengren"
+  name   : "Mayra Stepa"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Technical writer, historian, musician, juggler, and foody"
+  bio    : "Flower"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:aekengren@pm.me"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/AsaEkengren"
+      url: "mailto:stepamayra@proton.me"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/stepastrations/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/aekengren/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/aekengren"
-    - label: "Rate Your Music"
-      icon: "fab fa-fw fa-napster"
-      url: "https://rateyourmusic.com/~aekengren"
-
+      url: "https://www.linkedin.com/in/mayra-stepa-4249ba55/"
+      
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/AsaEkengren"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:stepamayra@proton.me"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/stepastrations/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/aekengren/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/aekengren"
-    - label: "Rate Your Music"
-      icon: "fab fa-fw fa-napster"
-      url: "https://rateyourmusic.com/~aekengren"
+      url: "https://www.linkedin.com/in/mayra-stepa-4249ba55/"
 
 defaults:
   # _posts
