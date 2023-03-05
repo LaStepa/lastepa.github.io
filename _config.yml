@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Asa Ekengren
+title: Mayra Stepa
 email: aekengren@pm.me
 description: "Asa Ekengren's personal website and portfolio"
 twitter_username: aekengren
-github_username: AsaEkengren
-minimal_mistakes_skin: dark
+github_username: LaStepa
+minimal_mistakes_skin: dirt
 logo: "/assets/images/siteicon.png"
 search: true
 analytics:
