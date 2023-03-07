@@ -15,7 +15,7 @@ excerpt: "I am Mayra Stepa and this is my humble creative studio. I love to illu
 intro: 
   - excerpt: 'If you want to create your visual identity, contact me. Together we will create wonderful and unique ideas. Also, I do digital portraits, the perfect gift for your significant others.'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/Ramillete.png
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
