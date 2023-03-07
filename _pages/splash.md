@@ -11,7 +11,7 @@ header:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**Stepa**]"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "I am Mayra Stepa and this is my humble creative studio. I love to illustrate and draw in digital & analogue, and I put a part of me into every stroke."
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
