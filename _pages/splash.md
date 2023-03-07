@@ -13,7 +13,7 @@ header:
   caption: "Photo credit: [**Stepa**]"
 excerpt: "I am Mayra Stepa and this is my humble creative studio. I love to illustrate and draw in digital & analogue, and I put a part of me into every stroke."
 intro: 
-  - excerpt: 'If you want to create your visual identity, contact me. Together we will create wonderful and unique ideas. Also, I do digital portraits, the perfect gift for your significant others. Centered with `type="center"`'
+  - excerpt: 'If you want to create your visual identity, contact me. Together we will create wonderful and unique ideas. Also, I do digital portraits, the perfect gift for your significant others.'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
