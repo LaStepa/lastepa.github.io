@@ -6,7 +6,7 @@ date: 2023-03-23
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: assets/images/Ramillete.png
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
