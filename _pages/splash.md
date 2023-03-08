@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: assets/images/Ramillete.png
   actions:
-    - label: "Download"
+    - label: "Contact me"
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**Stepa**]"
 excerpt: "I am Mayra Stepa and this is my humble creative studio. I love to illustrate and draw in digital & analogue, and I put a part of me into every stroke."
