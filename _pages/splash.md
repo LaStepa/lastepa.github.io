@@ -7,11 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: assets/images/Ramillete.png
-  actions:
-    - label: "Contact me"
-      url: "_pages/Contact-form"
-  caption: "Photo credit: [**Stepa**]"
-excerpt: "I am Mayra Stepa and this is my humble creative studio. I love to illustrate and draw in digital & analogue, and I put a part of me into every stroke."
+ excerpt: "I am Mayra Stepa and this is my humble creative studio. I love to illustrate and draw in digital & analogue, and I put a part of me into every stroke."
 intro: 
   - excerpt: 'If you want to create your visual identity, contact me. Together we will create wonderful and unique ideas. Also, I do digital portraits, the perfect gift for your significant others.'
 feature_row:
